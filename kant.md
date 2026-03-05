@@ -1,37 +1,22 @@
-*(Estos apuntes no deben usarse como metodo de estudio principal porque estan mal copiados. Usar solo como apoyo)*
+*(Estos apuntes no deben usarse como método de estudio principal porque están mal copiados. Usar solo como apoyo)*
 
-KANT
+## Kant
+Es un filósofo de la Edad Moderna, persona muy cuadriculada y disciplinada.
 
-Es un Filosofo de la edad moderna, persona muy cuadriculada y disciplinada
+### Su filosofia formula diferentes preguntas:
 
+- ¿Qué puedo conocer? ¿Qué debo hacer? ¿Qué me cabe esperar?
+- La **primera pregunta** sera contestada por la **crítica de la razón pura (CRP)**
+- La **segunda pregunta** con la **crítica de la razón práctica (CRK)**
+- La **tercera pregunta** con la **crítica del juicio (CRJ)**
 
-**Su filosofia cuestina diferentes preguntas:**
+### Estas preguntas serán elaboradas para contestar a la pregunta: ¿qué es el hombre?
 
-¿que puedo conocer? ¿que debo hacer? ¿que me cabe esperar?
-
-
-La primera pregunta sera contestada por la **Critica de la razón pura (CRP)**
-
-**la segunda, con la critica de la razon practica (CRK)**
-
-**la tercera con la critica del juicio (CRJ)**
-
-
-**estas preguntas seran elaboradas para contestar a la pregunta: que es el hombre.**
-
-
-**CRP → Problema del conocimiento**
-
-**CRK → problema de la Ética**
-
-**(la ultima no se pregunta porque es exageradamente larga)**
-
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
+- **CRP → Problema del conocimiento**
+- **CRK → problema de la Ética**
+- **(la ultima no se pregunta porque es exageradamente larga)**
 
 PROBLEMA DEL CONOCIMIENTO - CRP
-
 
 **Kant considera que la filosofia ha de proceder a una critica de la razón desde la razón misma.**
 
